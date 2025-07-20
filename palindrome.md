@@ -2,7 +2,11 @@
 
 # Approach
 <!-- Describe your approach to solving the problem. -->
-
+1. Duplicate the number
+2. INitialize reverse = 0
+3. Iterate over duplicate number to find reverse of a number
+4. Check `original == reverse number`
+5. return `true` or `false`
 # Complexity
 - Time complexity:
 O(Log(N))
