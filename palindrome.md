@@ -1,11 +1,12 @@
 
 
 # Approach
-1. duplicate original number
-2. initialize reverse = 0
-3. iterate and find the reverse
-4. check if there is reverse == original number
-5. return `true` otherwise `false`
+<!-- Describe your approach to solving the problem. -->
+
+# Complexity
+- Time complexity:
+O(Log(N))
+
 
 
 # Code
